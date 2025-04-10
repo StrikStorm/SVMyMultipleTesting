@@ -24,4 +24,4 @@ Este proyecto aplica técnicas de análisis estadístico y modelos de clasificac
    Se analizan las métricas de precisión y desempeño de cada modelo sobre los datos de entrenamiento y prueba.
 
 
-Si quieres analizar el [NoteBook](./), si no lo quieres descargar aqui en [HTML](./) y la [Base de datos](./) que se utilizo.
+Si quieres analizar el [NoteBook](./SVMyMultipleTesting.ipynb), si no lo quieres descargar aqui en [HTML](./SVMyMultipleTesting.html) y la [Base de datos](./Khan.csv) que se utilizo.
